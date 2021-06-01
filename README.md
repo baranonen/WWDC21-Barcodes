@@ -1,5 +1,5 @@
 # Barcodes
-My WWDC21 Swift Student Challenge project!
+(Accepted) My WWDC21 Swift Student Challenge project!
 
 [![Barcodes - Cover Image](https://raw.githubusercontent.com/baranonen/WWDC21-Barcodes/master/Resources/BarcodesGitHub.png "Barcodes - Cover Image")](https://raw.githubusercontent.com/baranonen/WWDC21-Barcodes/master/Resources/BarcodesGitHub.png "Barcodes - Cover Image")
 
